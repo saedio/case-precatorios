@@ -1,0 +1,106 @@
+[
+  {
+    "evento_id": "ev-001",
+    "processo": "0012345-10.2019.8.26.0053",
+    "valor": 15000.0,
+    "data_pagamento": "2025-03-10",
+    "tipo": "pagamento",
+    "atualizado_em": "2025-03-10T10:00:00-03:00"
+  },
+  {
+    "evento_id": "ev-002",
+    "processo": "0012345-10.2019.8.26.0053",
+    "valor": "2.500,50",
+    "data_pagamento": "10/04/2025",
+    "tipo": "pagamento",
+    "atualizado_em": "2025-04-10T09:00:00-03:00"
+  },
+  {
+    "evento_id": "ev-003",
+    "processo": "0023456-21.2020.8.26.0053",
+    "valor": 8000,
+    "data_pagamento": "2025-05-02",
+    "tipo": "pagamento",
+    "atualizado_em": "2025-05-02T11:00:00-03:00"
+  },
+  {
+    "evento_id": "ev-002",
+    "processo": "0012345-10.2019.8.26.0053",
+    "valor": "2.500,50",
+    "data_pagamento": "10/04/2025",
+    "tipo": "pagamento",
+    "atualizado_em": "2025-04-10T09:00:00-03:00"
+  },
+  {
+    "evento_id": "ev-004",
+    "processo": "0023456-21.2020.8.26.0053",
+    "valor": null,
+    "data_pagamento": "2025-05-03",
+    "tipo": "pagamento",
+    "atualizado_em": "2025-05-03T08:00:00-03:00"
+  },
+  {
+    "evento_id": "ev-005",
+    "processo": "00234562120208260053",
+    "valor": 1200.0,
+    "data_pagamento": "2025-06-01",
+    "tipo": "pagamento",
+    "atualizado_em": "2025-06-01T10:00:00-03:00"
+  },
+  {
+    "evento_id": "ev-006",
+    "processo": "0034567-32.2018.8.26.0405",
+    "valor": 5000,
+    "data_pagamento": "2025-02-20",
+    "tipo": "pagamento",
+    "atualizado_em": "2025-02-20T10:00:00-03:00"
+  },
+  {
+    "evento_id": "ev-007",
+    "processo": "0034567-32.2018.8.26.0405",
+    "valor": 5000,
+    "data_pagamento": "2025-02-21",
+    "tipo": "estorno",
+    "atualizado_em": "2025-02-21T10:00:00-03:00"
+  },
+  {
+    "evento_id": "ev-001",
+    "processo": "0012345-10.2019.8.26.0053",
+    "valor": 15500.0,
+    "data_pagamento": "2025-03-10",
+    "tipo": "pagamento",
+    "atualizado_em": "2025-03-11T09:00:00-03:00"
+  },
+  {
+    "evento_id": "ev-008",
+    "processo": "0045678-43.2021.5.02.0011",
+    "valor": 3000,
+    "data_pagamento": "2025-07-15",
+    "tipo": "pagamento",
+    "atualizado_em": "2025-07-15T10:00:00-03:00"
+  },
+  {
+    "evento_id": "ev-009",
+    "processo": "0056789-54.2017.4.03.6100",
+    "valor": -200,
+    "data_pagamento": "2025-07-20",
+    "tipo": "pagamento",
+    "atualizado_em": "2025-07-20T10:00:00-03:00"
+  },
+  {
+    "evento_id": "ev-010",
+    "processo": "",
+    "valor": 750,
+    "data_pagamento": "2025-08-01",
+    "tipo": "pagamento",
+    "atualizado_em": "2025-08-01T10:00:00-03:00"
+  },
+  {
+    "evento_id": "ev-011",
+    "processo": "0067890-65.2016.8.26.0053",
+    "valor": 4000,
+    "data_pagamento": "2025-08-10",
+    "tipo": "pagamento",
+    "atualizado_em": "2025-08-10T10:00:00-03:00"
+  }
+]
