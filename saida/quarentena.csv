@@ -1,0 +1,4 @@
+evento_id,linhas,motivo,registro_original
+ev-004,34,valor: valor ausente (null),"[{""evento_id"": ""ev-004"", ""processo"": ""0023456-21.2020.8.26.0053"", ""valor"": null, ""data_pagamento"": ""2025-05-03"", ""tipo"": ""pagamento"", ""atualizado_em"": ""2025-05-03T08:00:00-03:00""}]"
+ev-009,82,valor não positivo (-200.00) em evento do tipo 'pagamento'; o schema exige valor > 0,"[{""evento_id"": ""ev-009"", ""processo"": ""0056789-54.2017.4.03.6100"", ""valor"": -200, ""data_pagamento"": ""2025-07-20"", ""tipo"": ""pagamento"", ""atualizado_em"": ""2025-07-20T10:00:00-03:00""}]"
+ev-010,90,processo: número de processo fora do padrão CNJ: '',"[{""evento_id"": ""ev-010"", ""processo"": """", ""valor"": 750, ""data_pagamento"": ""2025-08-01"", ""tipo"": ""pagamento"", ""atualizado_em"": ""2025-08-01T10:00:00-03:00""}]"
