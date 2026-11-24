@@ -32,7 +32,7 @@ Testes cobrem o que mais custa se errar: prazo (2 de abril inclusivo, ano bissex
 
 ## Uso de IA
 
-Usei o Claude (Anthropic) como apoio para ler os arquivos, levantar hipóteses, escrever o código, os testes, o SQL e o texto do diagnóstico.
+Usei o Claude como apoio para levantar hipóteses, escrever o código com base na arquitetura e no plano de ação criado por mim, realizar os testes linha por linha, para as consultas SQL e o texto do diagnóstico.
 
 Como conferi o que ela produziu:
 - Li todos os arquivos do case e recalculei à mão os números do diagnóstico (totais por processo, prazos, diferenças em reais) contra os registros e as linhas citadas.
